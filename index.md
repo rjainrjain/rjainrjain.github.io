@@ -7,7 +7,9 @@ me:
 
 # Rijul Jain
 
-![me](assets/rijul-on-the-web.jpg) I’m an undergraduate at [Williams College](https://www.williams.edu/) majoring in Computer Science and English. I’ll be a visiting student at the [University of Oxford](https://www.exeter.ox.ac.uk/) for the 2023-24 academic year.
+![me]({{me.img}}) 
+
+I’m an undergraduate at [Williams College](https://www.williams.edu/) majoring in Computer Science and English. I’ll be a visiting student at the [University of Oxford](https://www.exeter.ox.ac.uk/) for the 2023-24 academic year.
 
 Currently, I'm exploring the intersection of **programming languages** and **human-computer interaction** at Carnegie Mellon University's [Research Experiences for Undergraduates (REUSE)](https://www.cmu.edu/scs/s3d/reuse/) program under [Joshua Sunshine](https://www.cs.cmu.edu/~jssunshi/) and [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), researching domain-specific program generation with large language models to democratize diagram authoring using [Penrose](https://penrose.cs.cmu.edu/). As part of previous research with [Daniel Barowy](http://www.cs.williams.edu/~dbarowy/) at Williams, I've also implemented a programming language that describes and captures UNIX filesystem state, sidestepping problems with breaking system call API changes to safely express program semantics for OS platform- and version-agnostic execution.
 
