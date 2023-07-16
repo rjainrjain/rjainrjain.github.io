@@ -1,13 +1,11 @@
 ---
 resume:
   url: assets/resume20230716.pdf
-me:
-  img: assets/rijul-on-the-web.jpg
 ---
 
 # Rijul Jain
 
-![me]({{me.img}}) 
+![me](assets/rijul-on-the-web.jpg) 
 
 I’m an undergraduate at [Williams College](https://www.williams.edu/) majoring in Computer Science and English. I’ll be a visiting student at the [University of Oxford](https://www.exeter.ox.ac.uk/) for the 2023-24 academic year.
 
