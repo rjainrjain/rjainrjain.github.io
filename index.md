@@ -4,8 +4,6 @@ I’m an undergraduate at [Williams College](https://www.williams.edu/) majoring
 
 Currently, I'm exploring the intersection of **programming languages** and **human-computer interaction** in Carnegie Mellon University's [Research Experiences for Undergraduates (REUSE)](https://www.cmu.edu/scs/s3d/reuse/) program under [Joshua Sunshine](https://www.cs.cmu.edu/~jssunshi/) and [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), researching domain-specific program generation with large language models to democratize diagram authoring using [Penrose](https://penrose.cs.cmu.edu/).
 
-I'm also deeply invested in finding generative, non-reductive ways to reconcile the richness of the logics and interpretive phenomena of modern [**literature**](https://www.ndbooks.com/book/the-rings-of-saturn/), [**literary theory**](https://thecharnelhouse.org/wp-content/uploads/2017/09/Fredric-Jameson-The-Antinomies-of-Realism-2015.pdf) and [**philosophy**](https://files.libcom.org/files/A%20Thousand%20Plateaus.pdf)[(?)](https://seansturm.files.wordpress.com/2012/06/benjamin-theses-on-the-philosophy-of-history.pdf) with our various computational models of (and subsequent assumptions about) the world.
-
-
+I'm also deeply invested in finding generative ways to reconcile the richness of the logics and interpretive phenomena of aesthetically daring [**literature**](https://www.ndbooks.com/book/the-rings-of-saturn/), [**literary theory**](https://thecharnelhouse.org/wp-content/uploads/2017/09/Fredric-Jameson-The-Antinomies-of-Realism-2015.pdf) and [**philosophy**](https://files.libcom.org/files/A%20Thousand%20Plateaus.pdf)[(?)](https://seansturm.files.wordpress.com/2012/06/benjamin-theses-on-the-philosophy-of-history.pdf) with our various computational models of (and subsequent assumptions about) the world.
 
 [_resumé_]() | [_github_](https://github.com/rjainrjain) | [_linkedin_](https://www.linkedin.com/in/rijul-jn/) | [_email me!_](mailto:rijul.jain@williams.edu)
