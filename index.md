@@ -8,4 +8,10 @@ I’m an undergraduate at [Williams College](https://www.williams.edu/) majoring
 
 
 
-[_cv_]() | [_github_](https://github.com/rjainrjain) | [_linkedin_](https://www.linkedin.com/in/rijul-jn/) | [_email me!_](mailto:rijul.jain@williams.edu)
+[_cv_]() | [_github_] | [_linkedin_] | [_email me!_][email]
+
+
+[cv] <>
+[github] <https://github.com/rjainrjain>
+[linkedin] <https://www.linkedin.com/in/rijul-jn/>
+[email] <mailto:rijul.jain@williams.edu>
