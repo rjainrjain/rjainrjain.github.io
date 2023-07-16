@@ -1,7 +1,4 @@
----
-name: ""
-title: null
----
+# Rijul Jain
 
 I’m an undergraduate at [Williams College](https://www.williams.edu/) majoring in Computer Science and English. I’ll be a visiting student at the [University of Oxford](https://www.exeter.ox.ac.uk/) for the 2023-24 academic year.
 
