@@ -1,6 +1,6 @@
 ---
 resume:
-  url: assets/resume20230716.pdf
+  url: assets/resume20230819.pdf
 ---
 
 # Rijul Jain
