@@ -1,11 +1,11 @@
 ---
 resume:
-  url: assets/resume20230819.pdf
+  url: assets/resume20240615.pdf
 ---
 
 # Rijul Jain
 
-![Rijul Jain](assets/rijul-on-the-web.jpg) 
+![Rijul Jain](assets/rijul06192024.jpg) 
 
 I’m an undergraduate at [**Williams College**](https://www.williams.edu/) majoring in Computer Science and English. I’m currently a visiting student at the [**University of Oxford**](https://www.exeter.ox.ac.uk/) for the 2023-24 academic year. I work on research at the intersection of **programming languages**, **human-computer interaction**, and **artificial intelligence**.
 
@@ -14,4 +14,4 @@ This summer, I'll be working on AI-augmented verification at [Microsoft Research
 
 
 
-[_résumé_]({{page.resume.url}}) | [_github_](https://github.com/rjainrjain) | [_linkedin_](https://www.linkedin.com/in/rijul-jn/) | [_email me!_](mailto:rijul.jain@williams.edu)
+[_resume_]({{page.resume.url}}) | [_github_](https://github.com/rjainrjain) | [_linkedin_](https://www.linkedin.com/in/rijul-jn/) | [_email me!_](mailto:rijul.jain@williams.edu)
