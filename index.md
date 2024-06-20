@@ -5,7 +5,7 @@ resume:
 
 # Rijul Jain
 
-![Rijul Jain](assets/rijul06192024.jpg) 
+![Rijul Jain](assets/rjain06192024.jpg) 
 
 I’m an undergraduate at [**Williams College**](https://www.williams.edu/) majoring in Computer Science and English. I’m currently a visiting student at the [**University of Oxford**](https://www.exeter.ox.ac.uk/) for the 2023-24 academic year. I work on research at the intersection of **programming languages**, **human-computer interaction**, and **artificial intelligence**.
 
