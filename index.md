@@ -15,4 +15,6 @@ This summer, I designed and conducted a study of expert users of proof-oriented 
 
 Over the course of the 2024-25 academic year, I'm working on two honors theses, one in computer science and one in English. With Joshua Sunshine and [Bill Jannen](http://cs.williams.edu/~jannen/), I'm developing testing strategies and tools to better characterize errors in and improve the usability of visualization DSLs. With [Anita Sokolsky](https://english.williams.edu/profile/asokolsk/) and [Paresh Chandra](https://english.williams.edu/profile/pc16/), I'm refracting George Eliot's formal innovations through Theodor W. Adorno's aesthetic theory and Walter Benjamin's philosophy of history. 
 
+I use he/they pronouns.
+
 [_resume_]({{page.resume.url}}) | [_github_](https://github.com/rjainrjain) | [_linkedin_](https://www.linkedin.com/in/rijul-jn/) | [_email me!_](mailto:rijul.jain@williams.edu)
