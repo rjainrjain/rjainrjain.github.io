@@ -7,7 +7,7 @@ resume:
 
 ![Rijul Jain](assets/rjain06192024.jpg) 
 
-I’m an undergraduate at [**Williams College**](https://www.williams.edu/) majoring in English and Computer Science. I was a visiting student at the [**University of Oxford**](https://www.exeter.ox.ac.uk/) for the 2023-24 academic year. I work on research at the intersection of **programming languages**, **human-computer interaction**, and **artificial intelligence**. 
+I’m an undergraduate at [**Williams College**](https://www.williams.edu/) majoring in English and Computer Science. I was a visiting student at the [**University of Oxford**](https://www.exeter.ox.ac.uk/) for the 2023-24 academic year. I work on research at the intersection of **human-computer interaction**, **programming languages**, and **artificial intelligence**. 
 
 I want computers to support human cognition and for the design of software to be attuned to it. To this end, I'm interested in novel information representations, both to improve documents with interactive reading and to improve the design of programming languages and software tools for verification and testing. This often involves evaluating the impact of AI augmentation in such interactive systems. I'm applying to PhD programs to pursue this.
 
