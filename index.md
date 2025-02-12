@@ -13,4 +13,6 @@ This summer, I designed and conducted a study of expert users of proof-oriented 
 
 I use he/they pronouns.
 
+
+
 [_resume_]({{page.resume.url}}) | [_email me!_](mailto:rijul.jain@williams.edu)
