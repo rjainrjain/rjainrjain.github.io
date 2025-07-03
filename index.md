@@ -7,7 +7,7 @@ resume:
 
 ![Rijul Jain](assets/rjain06192024.jpg) 
 
-In fall 2025, I'll begin my PhD in Computer Science and Engineering in the [Paul G. Allen School](https://www.cs.washington.edu/) at the [**University of Washington**](https://www.washington.edu/), advised by [Amy Ko](https://faculty.washington.edu/ajko/) and [R. Benjamin Shapiro](https://benshapi.ro/). I am a [National Science Foundation Graduate Research Fellowship](https://www.nsfgrfp.org/) recipient.
+In fall 2025, I'll begin my PhD in Computer Science and Engineering in the [Paul G. Allen School](https://www.cs.washington.edu/) at the [**University of Washington**](https://www.washington.edu/), advised by [Amy Ko](https://faculty.washington.edu/ajko/) and [R. Benjamin Shapiro](https://benshapi.ro/). I am a [National Science Foundation Graduate Research Fellowship](https://nsfgrfp.org/) recipient.
 
 I completed my BA in English and Computer Science, summa cum laude, with [Highest Honors](https://librarysearch.williams.edu/discovery/delivery/01WIL_INST:01WIL_SPECIAL/12431114410002786) in English, at [**Williams College**](https://www.williams.edu/). I was a visiting student at the [**University of Oxford**](https://www.exeter.ox.ac.uk/) for the 2023-24 academic year. 
 
