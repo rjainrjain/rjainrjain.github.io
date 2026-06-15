@@ -6,7 +6,7 @@ title: Rijul Jain
 
 ![Rijul Jain](assets/rjain06192024.jpg) 
 
-I work on aesthetic theory and the philosophy of history in the nineteenth-century English novel and historiographically grounded computing serving the arts and humanities. During summer 2026, I'm interning at the [Berkman Klein Center for Internet & Society at Harvard University](https://cyber.harvard.edu/), advised by [Josh Joseph](https://cyber.harvard.edu/people/josh-joseph) and [Jonathan Zittrain](https://cyber.harvard.edu/people/jzittrain), to design human-AI interaction affordances expanding the experience of possible inquiry in digital archival search and discovery.
+I work on aesthetic theory and the philosophy of history in the nineteenth-century English novel and historiographically grounded computing serving the arts and humanities. I'm a 2026 summer intern at the [Berkman Klein Center for Internet & Society at Harvard University](https://cyber.harvard.edu/) designing human-AI interaction affordances expanding possible inquiry in digital archival search and discovery.
 
 I'm a PhD student in the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the [**University of Washington**](https://www.washington.edu/) advised by [Benjamin Charles Germain Lee](https://bcglee.github.io/) and [R. Benjamin Shapiro](https://benshapi.ro/). In 2026-27, I'll take up an MPhil in English Studies at the [**University of Cambridge**](https://www.robinson.cam.ac.uk/), funded by a 2026 [Gates Cambridge Scholarship](https://www.gatescambridge.org/biography/19401/). My doctoral research is supported by a 2025 [National Science Foundation Graduate Research Fellowship](https://nsfgrfp.org/).
 
