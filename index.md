@@ -6,7 +6,7 @@ title: Rijul Jain
 
 ![Rijul Jain](assets/rjain06192024.jpg) 
 
-I am a literary scholar and computer scientist interested in how representations of historical material condition the space of possible inquiry about, or in other words our experience of, the past. To this end, I work on aesthetic theory and the philosophy of history in Victorian representations of the Italian Renaissance as well as reimagining search and discovery in digital collections for humanities scholars, libraries, and museums.
+I am a literary scholar and computer scientist interested in how representations of historical material condition the space of possible inquiry about, and our experience of, the past. To this end, I work on aesthetic theory and the philosophy of history in Victorian representations of the Italian Renaissance as well as reimagining search and discovery in digital collections for humanities scholars, libraries, and museums.
 
 I'm a PhD student in the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the [**University of Washington**](https://www.washington.edu/) advised by [Benjamin Charles Germain Lee](https://bcglee.github.io/) and [R. Benjamin Shapiro](https://benshapi.ro/). In 2026-27, I'll take up an MPhil in English Studies at the [**University of Cambridge**](https://www.robinson.cam.ac.uk/) on a 2026 [Gates Cambridge Scholarship](https://www.gatescambridge.org/biography/19401/). My doctoral research is supported by a 2025 [National Science Foundation Graduate Research Fellowship](https://nsfgrfp.org/).
 
